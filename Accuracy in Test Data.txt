@@ -1,9 +1,6 @@
 Accuracy in Test Data:
-395/395 [==============================] - 3s 7ms/step
 kernel_size=(3, 3) filters=16 drop_rate=0.2:  98.13935075217735
-395/395 [==============================] - 3s 6ms/step
 kernel_size=(3, 3) filters=16 drop_rate=0.3:  98.64608076009502
-395/395 [==============================] - 3s 7ms/step
 kernel_size=(3, 3) filters=16 drop_rate=0.4:  98.76484560570071
 395/395 [==============================] - 3s 6ms/step
 kernel_size=(3, 3) filters=16 drop_rate=0.5:  98.68566904196358
